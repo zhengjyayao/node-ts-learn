@@ -1,0 +1,9 @@
+.ottoia
+/dist/
+/node_modules/
+/config.json
+/debug.pid
+/data/
+/sequelize2ts-config.json
+/templates/
+*.dump
